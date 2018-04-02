@@ -1,0 +1,1601 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.892113,
+                    40.443525
+                ],
+                "type": "Point"
+            },
+            "id": "Shiny Happy Cleaners LLC",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://shinyhappycleaners.com/",
+                "address": "321 S. Trenton Avenue Pittsburgh, PA 15212",
+                "business": "Shiny Happy Cleaners LLC",
+                "name": "Heather Kniess",
+                "category": "Home Services",
+                "lat": 40.443525,
+                "long": -79.892113
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.942268,
+                    40.464805
+                ],
+                "type": "Point"
+            },
+            "id": "PULLPROOF studio",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.pullproof.studio/",
+                "address": "5112 Penn Ave, Pittsburgh, PA 15224",
+                "business": "PULLPROOF studio",
+                "name": "Christina Lee",
+                "category": "Arts & Entertainment",
+                "lat": 40.464805,
+                "long": -79.942268
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.007177,
+                    40.42924
+                ],
+                "type": "Point"
+            },
+            "id": "love, Pittsburgh",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://lovepittsburghshop.com/",
+                "address": "301 Shiloh Street, Pittsburgh, PA 15211",
+                "business": "love, Pittsburgh",
+                "name": "Monica Yope",
+                "category": "Shopping",
+                "lat": 40.42924,
+                "long": -80.007177
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.941491,
+                    40.465002
+                ],
+                "type": "Point"
+            },
+            "id": "Workshop",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.workshoppgh.com/",
+                "address": "5135 Penn Ave, Pittsburgh, PA 15224",
+                "business": "Workshop",
+                "name": "Kelly Malone",
+                "category": "Education",
+                "lat": 40.465002,
+                "long": -79.941491
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.952691,
+                    40.455742
+                ],
+                "type": "Point"
+            },
+            "id": "Prototype",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://prototypepgh.com/",
+                "address": "460 Melwood Ave  Suite 208, Pittsburgh, PA 15213",
+                "business": "Prototype",
+                "name": "E.Louise Larson",
+                "category": "Education",
+                "lat": 40.455742,
+                "long": -79.952691
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.084694,
+                    40.408922
+                ],
+                "type": "Point"
+            },
+            "id": "Flying Squirrel",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.flyingsquirreltoys.com/",
+                "address": "241 E Main St, Carnegie, PA 15106",
+                "business": "Flying Squirrel",
+                "name": "Melanie Luke",
+                "category": "Shopping",
+                "lat": 40.408922,
+                "long": -80.084694
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.086372,
+                    40.407446
+                ],
+                "type": "Point"
+            },
+            "id": "Firebox Art Studios LLC",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.evatrout.com/Artist.asp?ArtistID=21224&Akey=FG923KRY&ajx=1#!asset75029",
+                "address": "110 E. Main Street Carnegie, Pa 15106",
+                "business": "Firebox Art Studios LLC",
+                "name": "Eva Trout",
+                "category": "Arts & Entertainment",
+                "lat": 40.407446,
+                "long": -80.086372
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.085763,
+                    40.407844
+                ],
+                "type": "Point"
+            },
+            "id": "Higher Voice Studio",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://highervoicestudio.com/#",
+                "address": "144 E. Main Street, Carnegie, PA 15106",
+                "business": "Higher Voice Studio",
+                "name": "Hilerie Klein Rensi",
+                "category": "Arts & Entertainment",
+                "lat": 40.407844,
+                "long": -80.085763
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.979482,
+                    40.428875
+                ],
+                "type": "Point"
+            },
+            "id": "Carmi's Soul Food",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://carmirestaurant.com/",
+                "address": "1825 E Carson St Pittsburgh PA 15203",
+                "business": "Carmi's Soul Food",
+                "name": "Carleen King",
+                "category": "Restaurant ",
+                "lat": 40.428875,
+                "long": -79.979482
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.072349,
+                    40.471804
+                ],
+                "type": "Point"
+            },
+            "id": "Aliya Wray's Beauty Shop",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.aliyawrays.com/",
+                "address": "638 Broadway Ave Mckees Rocks, PA 15136",
+                "business": "Aliya Wray's Beauty Shop",
+                "name": "Aliya Wray",
+                "category": "Beauty & Spas",
+                "lat": 40.471804,
+                "long": -80.072349
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.974384,
+                    40.481234
+                ],
+                "type": "Point"
+            },
+            "id": "Ton Pottery",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.tonpottery.com/",
+                "address": "220 North Ave Millvale, PA 15209",
+                "business": "Ton Pottery",
+                "name": "Aasta Deth & Daniel Kuhn",
+                "category": "Active Life/Activities",
+                "lat": 40.481234,
+                "long": -79.974384
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.941983,
+                    40.464603
+                ],
+                "type": "Point"
+            },
+            "id": "Workshop PGH",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.workshoppgh.com/",
+                "address": "5122 Penn Ave, pgh",
+                "business": "Workshop PGH",
+                "name": "Kelly Malone",
+                "category": "Active Life/Activities",
+                "lat": 40.464603,
+                "long": -79.941983
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.892047,
+                    40.443675
+                ],
+                "type": "Point"
+            },
+            "id": "Go Figure! Custom Figure",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.gofigurecustomfigures.com",
+                "address": "315 S Trenton Ave, Pgh",
+                "business": "Go Figure! Custom Figure",
+                "name": "Elisheva Czeladnicki",
+                "category": "Arts",
+                "lat": 40.443675,
+                "long": -79.892047
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.990732,
+                    40.462697
+                ],
+                "type": "Point"
+            },
+            "id": "Chic Expressions Event Planning",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.facebook.com/chicexpressionspgh/",
+                "address": "1526 Rhine Street Pittsburgh, Pennsylvania",
+                "business": "Chic Expressions Event Planning",
+                "name": "Natasha Bonner",
+                "category": "Event Planning & Services",
+                "lat": 40.462697,
+                "long": -79.990732
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.934712,
+                    40.464972
+                ],
+                "type": "Point"
+            },
+            "id": "Farm & Forest",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.pghfarmandforest.com",
+                "address": "5437 Penn Ave Pittsburgh, PA 15206.",
+                "business": "Farm & Forest",
+                "name": "Megan Leisher",
+                "category": "Shopping",
+                "lat": 40.464972,
+                "long": -79.934712
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.002987,
+                    40.438608
+                ],
+                "type": "Point"
+            },
+            "id": "Illume Pittsburgh ( formerly Exhale Yoga)",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://illumepittsburgh.com/",
+                "address": "222 Blvd of the Allies, PGH",
+                "business": "Illume Pittsburgh ( formerly Exhale Yoga)",
+                "name": "Jennifer Ferris-Glick",
+                "category": "Active Life/Activities",
+                "lat": 40.438608,
+                "long": -80.002987
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.958625,
+                    40.440708
+                ],
+                "type": "Point"
+            },
+            "id": "Redhawk Coffee",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.facebook.com/redhawkcoffeetruck",
+                "address": "120 Meyran Ave,Pittsburgh, Pennsylvania",
+                "business": "Redhawk Coffee",
+                "name": "Mary Gonzalez",
+                "category": "Restaurant",
+                "lat": 40.440708,
+                "long": -79.958625
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.983568,
+                    40.421644
+                ],
+                "type": "Point"
+            },
+            "id": "Threefifty Bakery",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.threefiftypgh.com/",
+                "address": "2427 S 18th St, PGH, PA 15210",
+                "business": "Threefifty Bakery",
+                "name": "Jane Crawford",
+                "category": "Restaurant",
+                "lat": 40.421644,
+                "long": -79.983568
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.044227,
+                    40.380707
+                ],
+                "type": "Point"
+            },
+            "id": "GOOD Life Juices",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.goodlifejuices.com/",
+                "address": "99 Alfred St PGH, PA",
+                "business": "GOOD Life Juices",
+                "name": "Sherry Quinn",
+                "category": "Restaurant",
+                "lat": 40.380707,
+                "long": -80.044227
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.891667,
+                    40.457386
+                ],
+                "type": "Point"
+            },
+            "id": "Big Lulu's Trucking",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.biglulustrucking.com/",
+                "address": "7347 Idlewild St. PGH,PA 15208",
+                "business": "Big Lulu's Trucking",
+                "name": "Celeste Phillips",
+                "category": "Hotels & Travel ",
+                "lat": 40.457386,
+                "long": -79.891667
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.232088,
+                    40.592576
+                ],
+                "type": "Point"
+            },
+            "id": "Beaver County Pathways LLC",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.bcpathways.org/",
+                "address": "1098 Kennedy Drive,Ambridge, Pa 15003",
+                "business": "Beaver County Pathways LLC",
+                "name": "Valerie Lerch",
+                "category": "Health & Medical",
+                "lat": 40.592576,
+                "long": -80.232088
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.986079,
+                    40.417428
+                ],
+                "type": "Point"
+            },
+            "id": "T.C. Candy and Chocolate Arts",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://tccandy.com/",
+                "address": "101 Brownsville Rd, Pittsburgh, PA 15210",
+                "business": "T.C. Candy and Chocolate Arts",
+                "name": "Suzanne Terreri",
+                "category": "Shopping? Food",
+                "lat": 40.417428,
+                "long": -79.986079
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.877092,
+                    40.439986
+                ],
+                "type": "Point"
+            },
+            "id": "Dottie's Place 24 Hour Childcare",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.yelp.com/biz/dotties-place-24-hour-christian-child-care-service-pittsburgh",
+                "address": "1128 Ross Ave PGH, PA 15221",
+                "business": "Dottie's Place 24 Hour Childcare",
+                "name": "Dorothy Willis",
+                "category": "Education",
+                "lat": 40.439986,
+                "long": -79.877092
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.952691,
+                    40.455742
+                ],
+                "type": "Point"
+            },
+            "id": "Accessible Recording",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.womeninsound.com",
+                "address": "460 Melwood Avenue Unit 206, PGH, PA",
+                "business": "Accessible Recording",
+                "name": "Madeleine Campbell",
+                "category": "Arts/Entertainment",
+                "lat": 40.455742,
+                "long": -79.952691
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.959157,
+                    40.472773
+                ],
+                "type": "Point"
+            },
+            "id": "Ravenwood Collective",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "oxenbloodart.com",
+                "address": "4519 Butler St. PGH, PA 15201",
+                "business": "Ravenwood Collective",
+                "name": "Allie Nickel",
+                "category": "Beauty & Spas",
+                "lat": 40.472773,
+                "long": -79.959157
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.841362,
+                    40.461868
+                ],
+                "type": "Point"
+            },
+            "id": "The After School Academy of Penn Hills (2nd-ish)",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.afterschoolpennhills.com/",
+                "address": "10739 Frankstown Road, PGH, PA 15235",
+                "business": "The After School Academy of Penn Hills (2nd-ish)",
+                "name": "Leslie Parr",
+                "category": "Education",
+                "lat": 40.461868,
+                "long": -79.841362
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.945204,
+                    40.455307
+                ],
+                "type": "Point"
+            },
+            "id": "Anastasia's Crown Esthetic Services",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.anastasiascrown.com/",
+                "address": "5001 Baum Blvd, PGH, PA 15213",
+                "business": "Anastasia's Crown Esthetic Services",
+                "name": "Yvette Royal",
+                "category": "Beauty & Spas",
+                "lat": 40.455307,
+                "long": -79.945204
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.884173,
+                    40.443612
+                ],
+                "type": "Point"
+            },
+            "id": "Vision Towards Peace Counseling Services, LLC",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.visiontowardspeace.com/",
+                "address": "711 PENN AVENUE, Floor 2, Wilkinsburg, PA 15221",
+                "business": "Vision Towards Peace Counseling Services, LLC",
+                "name": "Erica Upshaw Givner",
+                "category": "Health & Medical",
+                "lat": 40.443612,
+                "long": -79.884173
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.944912,
+                    40.465529
+                ],
+                "type": "Point"
+            },
+            "id": "Gluten Free Goat",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://glutenfreegoat.com/",
+                "address": "4905 Penn Ave, Pittsburgh, PA 15224 (in the neighborhood of Garfield).",
+                "business": "Gluten Free Goat",
+                "name": "Jeanette Harris",
+                "category": "Restaurant",
+                "lat": 40.465529,
+                "long": -79.944912
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.191341,
+                    40.541304
+                ],
+                "type": "Point"
+            },
+            "id": "The Children's Community on Chadwick Street",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.thechildrenscommunity.com/",
+                "address": "15 Chadwick St Sewickley, PA",
+                "business": "The Children's Community on Chadwick Street",
+                "name": "Nia Stanley",
+                "category": "Education",
+                "lat": 40.541304,
+                "long": -80.191341
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.226053,
+                    40.62475
+                ],
+                "type": "Point"
+            },
+            "id": "Warriors' Call Boxing",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.warriorscallboxing.com",
+                "address": "3762 Duss Ave. Baden, PA 15005",
+                "business": "Warriors' Call Boxing",
+                "name": "Brandy Horchak-Jevsjukova",
+                "category": "Active Life/Activities",
+                "lat": 40.62475,
+                "long": -80.226053
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.936045,
+                    40.456558
+                ],
+                "type": "Point"
+            },
+            "id": "A Hair Boutique",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.ahairboutiqueshadyside.com/",
+                "address": "5510 Centre Ave, PGH, 15232",
+                "business": "A Hair Boutique",
+                "name": "LaToya Johnson-Rainey",
+                "category": "Beauty & Spas",
+                "lat": 40.456558,
+                "long": -79.936045
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.041793,
+                    40.389147
+                ],
+                "type": "Point"
+            },
+            "id": "Cassandra's Florals and More",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.facebook.com/CasandrasFlorals",
+                "address": "3275 W Liberty Ave Pittsburgh, PA ",
+                "business": "Cassandra's Florals and More",
+                "name": "Cassandra Gillen",
+                "category": "Shopping",
+                "lat": 40.389147,
+                "long": -80.041793
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.994473,
+                    40.444873
+                ],
+                "type": "Point"
+            },
+            "id": "CobblerWorld",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://cobblerworld.com/",
+                "address": "1059 Penn Avenue, Pittsburgh, PA 15222",
+                "business": "CobblerWorld",
+                "name": "Terina J. Hicks",
+                "category": "Restaurant",
+                "lat": 40.444873,
+                "long": -79.994473
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.000431,
+                    40.453693
+                ],
+                "type": "Point"
+            },
+            "id": "Arnold's Tea",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.arnoldsteapittsburgh.com/",
+                "address": "502 E Ohio St. Pittsburgh, PA 15212",
+                "business": "Arnold's Tea",
+                "name": "Verna Arnold",
+                "category": "Restaurant ",
+                "lat": 40.453693,
+                "long": -80.000431
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.052521,
+                    40.606827
+                ],
+                "type": "Point"
+            },
+            "id": "Happy Tails Spa ",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.happytailzpetspa.com/",
+                "address": "10441 Perry Highway, Wexford, Pa 15090",
+                "business": "Happy Tails Spa ",
+                "name": "Denise Mahan",
+                "category": "Pets",
+                "lat": 40.606827,
+                "long": -80.052521
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.985088,
+                    40.450893
+                ],
+                "type": "Point"
+            },
+            "id": "Jthn. Moran Woodworks",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.jthn-moran.com/",
+                "address": "108 19th St. Pittsburgh, PA 15222",
+                "business": "Jthn. Moran Woodworks",
+                "name": "Mindy Moran",
+                "category": "Shopping",
+                "lat": 40.450893,
+                "long": -79.985088
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9246,
+                    40.462868
+                ],
+                "type": "Point"
+            },
+            "id": "Olive & Marlowe ",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.oliveandmarlowe.com/",
+                "address": "5975 Broad Street Pittsburgh, PA 15206",
+                "business": "Olive & Marlowe ",
+                "name": "Heather Cramer",
+                "category": "Shopping",
+                "lat": 40.462868,
+                "long": -79.9246
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.95576,
+                    40.46576
+                ],
+                "type": "Point"
+            },
+            "id": "Constellation Coffee",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.constellationcoffeepgh.com/",
+                "address": "4059 Penn Avenue, Pittsburgh, PA",
+                "business": "Constellation Coffee",
+                "name": "Amy Weiland",
+                "category": "Restaurant ",
+                "lat": 40.46576,
+                "long": -79.95576
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.936047,
+                    40.383678
+                ],
+                "type": "Point"
+            },
+            "id": "Churchview Farm",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.churchviewfarmpgh.com/",
+                "address": "3897 Churchview Avenue Extension, Pittsburgh, PA 15236",
+                "business": "Churchview Farm",
+                "name": "Tara Rockacy",
+                "category": "Active Life/Activities",
+                "lat": 40.383678,
+                "long": -79.936047
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.939055,
+                    40.468317
+                ],
+                "type": "Point"
+            },
+            "id": "Healcrest Farms ",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.healcresturbanfarm.com/",
+                "address": "5200 Hillcrest St, PGH, PA",
+                "business": "Healcrest Farms ",
+                "name": "Maria Graziani",
+                "category": "Shopping",
+                "lat": 40.468317,
+                "long": -79.939055
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.954342,
+                    40.465258
+                ],
+                "type": "Point"
+            },
+            "id": "4121 Main",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.4121main.com",
+                "address": "4121 Main St, Pittsburgh, PA 15224",
+                "business": "4121 Main",
+                "name": "Kira Hoeg and Thommy Conroy",
+                "category": "Restaurant/Shopping",
+                "lat": 40.465258,
+                "long": -79.954342
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.953822,
+                    40.480925
+                ],
+                "type": "Point"
+            },
+            "id": "The Butterwood Bake Consortium",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.thebutterwoodbakeconsortium.com/",
+                "address": "5222 Butler St, Pittsburgh, PA 15201",
+                "business": "The Butterwood Bake Consortium",
+                "name": "",
+                "category": "Restaurant",
+                "lat": 40.480925,
+                "long": -79.953822
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.966766,
+                    40.463801
+                ],
+                "type": "Point"
+            },
+            "id": "Black Cat Tattoos",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://blackcatpgh.com/",
+                "address": "3439 Butler St, Pittsburgh PA. 15201",
+                "business": "Black Cat Tattoos",
+                "name": "Jason Lambert and Cara Cable",
+                "category": "Beauty & Spa",
+                "lat": 40.463801,
+                "long": -79.966766
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.964923,
+                    40.466401
+                ],
+                "type": "Point"
+            },
+            "id": "Black Cherry Design",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.blackcherrypgh.com/",
+                "address": "3701 Butler St, Pittsburgh, PA 15201",
+                "business": "Black Cherry Design",
+                "name": "",
+                "category": "Home Services",
+                "lat": 40.466401,
+                "long": -79.964923
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.992435,
+                    40.421515
+                ],
+                "type": "Point"
+            },
+            "id": "Black Forge Coffee",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.blackforgecoffee.com/",
+                "address": "1206 Arlington Ave, Pittsburgh, PA 15210",
+                "business": "Black Forge Coffee",
+                "name": "Nick Miller and Ashley Corts",
+                "category": "Restaurant",
+                "lat": 40.421515,
+                "long": -79.992435
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.954771,
+                    40.465622
+                ],
+                "type": "Point"
+            },
+            "id": "Brillobox",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.brilloboxpgh.com/",
+                "address": "4104 penn ave, pittsburgh, pa 15224",
+                "business": "Brillobox",
+                "name": "Lou Ickes and Janessa Walter",
+                "category": "Arts/Entertainment",
+                "lat": 40.465622,
+                "long": -79.954771
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.950787,
+                    40.483301
+                ],
+                "type": "Point"
+            },
+            "id": "Calligramme",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.calligramme.us/",
+                "address": "5417 Butler St, Pittsburgh, PA 15201",
+                "business": "Calligramme",
+                "name": "Marissa Vogel",
+                "category": "Shopping ",
+                "lat": 40.483301,
+                "long": -79.950787
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.954162,
+                    40.48065
+                ],
+                "type": "Point"
+            },
+            "id": "City Grows",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.citygrowspgh.com/",
+                "address": "5208 Butler Street, Pittsburgh, PA 15201",
+                "business": "City Grows",
+                "name": "",
+                "category": "Shopping ",
+                "lat": 40.48065,
+                "long": -79.954162
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.964203,
+                    40.467229
+                ],
+                "type": "Point"
+            },
+            "id": "Coca Cafe",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.coca-cafe.net/",
+                "address": "3811 Butler St, Pittsburgh, PA 15201",
+                "business": "Coca Cafe",
+                "name": "Carrie Rudolph & Melanie Ritchey",
+                "category": "Restaurant",
+                "lat": 40.467229,
+                "long": -79.964203
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.953443,
+                    40.479929
+                ],
+                "type": "Point"
+            },
+            "id": "Garbella",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://garbelladesign.com/",
+                "address": "5202 Carnegie St., Pittsburgh, PA 15201",
+                "business": "Garbella",
+                "name": "Amy Garbark",
+                "category": "Shopping ",
+                "lat": 40.479929,
+                "long": -79.953443
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.179006,
+                    40.538639
+                ],
+                "type": "Point"
+            },
+            "id": "Luna Boutique",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "www.glitterandgritpgh.com",
+                "address": "616 Beaver Street — Sewickley, PA",
+                "business": "Luna Boutique",
+                "name": "Erin Szymanski",
+                "category": "Shopping ",
+                "lat": 40.538639,
+                "long": -80.179006
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.955673,
+                    40.465713
+                ],
+                "type": "Point"
+            },
+            "id": "Gypsy Tattoo Parlor",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.gypsytattooparlor.com/",
+                "address": "4061 PENN AVE PGH PA 15224",
+                "business": "Gypsy Tattoo Parlor",
+                "name": "Michelle Babkes",
+                "category": "Beauty & Spa",
+                "lat": 40.465713,
+                "long": -79.955673
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.925344,
+                    40.459653
+                ],
+                "type": "Point"
+            },
+            "id": "Dinette",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://dinette-pgh.com/",
+                "address": "5996 Centre Avenue, Pittsburgh, PA 15206",
+                "business": "Dinette",
+                "name": "Sonja Finn",
+                "category": "Restaurant",
+                "lat": 40.459653,
+                "long": -79.925344
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.950117,
+                    40.462508
+                ],
+                "type": "Point"
+            },
+            "id": "Linea Verde Green Market",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.facebook.com/lineaverdegreenmarket/?hc_location=ufi",
+                "address": "4619 Liberty Ave, Pittsburgh, Pennsylvania",
+                "business": "Linea Verde Green Market",
+                "name": "Gina",
+                "category": "Restaurant",
+                "lat": 40.462508,
+                "long": -79.950117
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.955315,
+                    40.478687
+                ],
+                "type": "Point"
+            },
+            "id": "Metamorphosis Spa",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.spapgh.com/",
+                "address": "5112 BUTLER ST. PITTBURGH, PA 15201",
+                "business": "Metamorphosis Spa",
+                "name": "Mia Good",
+                "category": "Beauty & Spa",
+                "lat": 40.478687,
+                "long": -79.955315
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.9224,
+                    40.45842
+                ],
+                "type": "Point"
+            },
+            "id": "Mint Salon",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.mintsalonpgh.com/",
+                "address": "238 Shady Avenue, Pitsburgh, PA 15206",
+                "business": "Mint Salon",
+                "name": "",
+                "category": "Beauty & Spa",
+                "lat": 40.45842,
+                "long": -79.9224
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.999317,
+                    40.436948
+                ],
+                "type": "Point"
+            },
+            "id": "Moop Shop",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.moopshop.com/",
+                "address": "429 First Ave, Pittsburgh, PA 15219",
+                "business": "Moop Shop",
+                "name": "Wendy Downs",
+                "category": "Shopping ",
+                "lat": 40.436948,
+                "long": -79.999317
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.950916,
+                    40.48279
+                ],
+                "type": "Point"
+            },
+            "id": "Nine Stories Pittsburgh",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://ninestoriespgh.com/",
+                "address": "5400 BUTLER STREET, PITTSBURGH, PA",
+                "business": "Nine Stories Pittsburgh",
+                "name": "John Shortino and Allison Mosher",
+                "category": "Shopping ",
+                "lat": 40.48279,
+                "long": -79.950916
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.959157,
+                    40.472773
+                ],
+                "type": "Point"
+            },
+            "id": "Ravenwood Collective",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.oxenbloodart.com/",
+                "address": "4519 Butler Street, Pittsburgh, 15201",
+                "business": "Ravenwood Collective",
+                "name": "Allie Oxenblood",
+                "category": "Beauty & Spa",
+                "lat": 40.472773,
+                "long": -79.959157
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.985806,
+                    40.428943
+                ],
+                "type": "Point"
+            },
+            "id": "Salon Ivy",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://salonivy.net/",
+                "address": "1213 E Carson St, Pittsburgh PA 15203",
+                "business": "Salon Ivy",
+                "name": "",
+                "category": "Beauty & Spa",
+                "lat": 40.428943,
+                "long": -79.985806
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.955688,
+                    40.478339
+                ],
+                "type": "Point"
+            },
+            "id": "Sapling Press",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://saplingpress.com/",
+                "address": "3254 Butler Street, Pittsburgh, PA 15201",
+                "business": "Sapling Press",
+                "name": "Lisa Krowinski",
+                "category": "Shopping ",
+                "lat": 40.478339,
+                "long": -79.955688
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.958867,
+                    40.473088
+                ],
+                "type": "Point"
+            },
+            "id": "La Gourmandine",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://lagourmandinebakery.com/",
+                "address": "4605 Butler St, Pittsburgh, PA 15201",
+                "business": "La Gourmandine",
+                "name": "Fabien and Lisanne Moreau",
+                "category": "Restaurant",
+                "lat": 40.473088,
+                "long": -79.958867
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.955313,
+                    40.478439
+                ],
+                "type": "Point"
+            },
+            "id": "The Gilded Girl PGH",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.thegildedgirl.com",
+                "address": "5104 Butler St. Pittsburgh PA 15201",
+                "business": "The Gilded Girl PGH",
+                "name": "Liz Quesnelle",
+                "category": "Shopping, Beauty & Spa",
+                "lat": 40.478439,
+                "long": -79.955313
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.959862,
+                    40.471162
+                ],
+                "type": "Point"
+            },
+            "id": "Una Biologicals",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.unabiologicals.com/",
+                "address": "4322 BUTLER STREET PITTSBURGH, PA 15201",
+                "business": "Una Biologicals",
+                "name": "Jessica Wilson Graves",
+                "category": "Beauty & Spa, Shopping, Active Life",
+                "lat": 40.471162,
+                "long": -79.959862
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.960636,
+                    40.470533
+                ],
+                "type": "Point"
+            },
+            "id": "Wildcard",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://wildcardpgh.myshopify.com/",
+                "address": "4209 Butler St, Pittsburgh, PA 15201",
+                "business": "Wildcard",
+                "name": "Becky Morris",
+                "category": "Shopping",
+                "lat": 40.470533,
+                "long": -79.960636
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.951938,
+                    40.478795
+                ],
+                "type": "Point"
+            },
+            "id": "52nd Street Market",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://52ndstreetmarket.com/",
+                "address": "601 52nd St, Pittsburgh, PA 15201",
+                "business": "52nd Street Market",
+                "name": "Deirdre Kane & Dora Walmsley",
+                "category": "Restaurant",
+                "lat": 40.478795,
+                "long": -79.951938
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.965274,
+                    40.465683
+                ],
+                "type": "Point"
+            },
+            "id": "Brambler Boutique",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://bramblerboutique.com/",
+                "address": "3609 Butler Street, Pittsburgh, PA 15201",
+                "business": "Brambler Boutique",
+                "name": "Kati Fishbein and Andi Calcagno",
+                "category": "Shopping",
+                "lat": 40.465683,
+                "long": -79.965274
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.961495,
+                    40.469102
+                ],
+                "type": "Point"
+            },
+            "id": "Paint Monkey",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://beapaintmonkey.com/",
+                "address": "4020 Butler St, Pittsburgh, Pennsylvania",
+                "business": "Paint Monkey",
+                "name": "Joe Groom and Mary Lou Bradley",
+                "category": "Active Life",
+                "lat": 40.469102,
+                "long": -79.961495
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.961134,
+                    40.470011
+                ],
+                "type": "Point"
+            },
+            "id": "Smoke BBQ Taqueria",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://smokepgh.com/",
+                "address": "4115 Butler Street, Pittsburgh, PA 15201",
+                "business": "Smoke BBQ Taqueria",
+                "name": "",
+                "category": "Restaurant",
+                "lat": 40.470011,
+                "long": -79.961134
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.180167,
+                    40.539492
+                ],
+                "type": "Point"
+            },
+            "id": "Lex + Lynne Boutique",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://lexandlynne.com/",
+                "address": "514 Beaver Street, Sewickley, PA, 15143",
+                "business": "Lex + Lynne Boutique",
+                "name": "Alexis Corry",
+                "category": "Shopping",
+                "lat": 40.539492,
+                "long": -80.180167
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.983851,
+                    40.42898
+                ],
+                "type": "Point"
+            },
+            "id": "Femi Boutique",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.shopfemi.com/",
+                "address": "1405 E Carson St, Pittsburgh,PA 15203",
+                "business": "Femi Boutique",
+                "name": "",
+                "category": "Shopping",
+                "lat": 40.42898,
+                "long": -79.983851
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.958834,
+                    40.47293
+                ],
+                "type": "Point"
+            },
+            "id": "No. 14 Boutqiue",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.no14boutique.com/",
+                "address": "4601 Butler Street, Pittsburgh, PA 15201",
+                "business": "No. 14 Boutqiue",
+                "name": "Brianne and Michele Conley",
+                "category": "Shopping",
+                "lat": 40.47293,
+                "long": -79.958834
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -80.021285,
+                    40.569809
+                ],
+                "type": "Point"
+            },
+            "id": "Rue Boutique",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.rueboutique.com/",
+                "address": "730 Providence Blvd, Pittsburgh, PA 15237 ",
+                "business": "Rue Boutique",
+                "name": "Ayellet",
+                "category": "Shopping",
+                "lat": 40.569809,
+                "long": -80.021285
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.950787,
+                    40.483301
+                ],
+                "type": "Point"
+            },
+            "id": "Caligramme",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "https://www.calligramme.us/",
+                "address": "5417 Butler St, Pittsburgh, PA 15201",
+                "business": "Caligramme",
+                "name": "Marissa",
+                "category": "Shopping",
+                "lat": 40.483301,
+                "long": -79.950787
+            }
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.959129,
+                    40.472854
+                ],
+                "type": "Point"
+            },
+            "id": "Crystal Bead Bazaar",
+            "type": "Feature",
+            "properties": {
+                "": "",
+                "website": "http://www.crystalbeadbazaar.com/",
+                "address": "4521 Butler Street, Pittsburgh, PA 15201",
+                "business": "Crystal Bead Bazaar",
+                "name": "Joanne",
+                "category": "Shopping",
+                "lat": 40.472854,
+                "long": -79.959129
+            }
+        }
+    ]
+}
