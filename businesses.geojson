@@ -2,7 +2,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [40.4435253, 40.4435253]
+    "coordinates": [-79.8943066, 40.4435253]
   },
   "properties": {
     "name": "Shiny Happy Cleaners LLC"
