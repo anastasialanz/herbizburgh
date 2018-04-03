@@ -7,21 +7,21 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
     accessToken: 'pk.eyJ1IjoiYW5hc3Rhc2lhbGFueiIsImEiOiJjamZoazg3YXUwMDB1MnFvZHlmMXJ4dDZ4In0.DBDgXzKxBnJD1WZkguY3vw'
 }).addTo(mymap);
 
-// var test = L.marker([40.4435253, -79.8943066]).addTo(mymap);
+let xhr = new XMLHttpRequest();
+xhr.open('GET', 'herbizburgh.geojson');
+xhr.setRequestHeader('Content-Type', 'application/json');
+xhr.onload = function() {
+    if (xhr.status === 200) {
+        L.geoJSON(JSON.parse(xhr.responseText), {
+          onEachFeature: onEachFeature
+        }).addTo(mymap);
+    }
+};
+xhr.send();
 
-// test.bindPopup("Shiny Happy Cleaners LLC").openPopup();
-
-var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/1epO-yMwljljr1ziZT4uNIrngV2blM_0w5Io0NvhU5-0/edit?usp=sharing';
-
-  function init() {
-    Tabletop.init( { key: publicSpreadsheetUrl,
-                     callback: showInfo,
-                     simpleSheet: true } )
+function onEachFeature(feature, layer) {
+  // does this feature have a property named popupContent?
+  if (feature.properties && feature.properties.business) {
+      layer.bindPopup('<h3>' + feature.properties.business + '</h3>');
   }
-
-  function showInfo(data, tabletop) {
-    alert('Successfully processed!')
-    console.log(data);
-  }
-
-  window.addEventListener('DOMContentLoaded', init);
+}
